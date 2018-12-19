@@ -1,5 +1,9 @@
-.container{
+.container-fluid{
   background-color: black;
+  font-size: 2rem;
+}
+.header {
+  color:#0099ff;
 }
 #my-elem {
   font-size: 3em;
